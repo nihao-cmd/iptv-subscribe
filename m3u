@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,湖南卫视 4K
+http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_HUNAN-4K/G_HUNAN-4K.m3u8
+#EXTINF:-1,东方卫视 4K
+http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_DONGFANG-4K/G_DONGFANG-4K.m3u8
+#EXTINF:-1,浙江卫视 4K
+http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_ZHEJIANG-4K/G_ZHEJIANG-4K.m3u8
+#EXTINF:-1,江苏卫视 4K
+http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_JIANGSU-4K/G_JIANGSU-4K.m3u8
+#EXTINF:-1,CCTV-16 奥林匹克 4K
+http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-16-4K/G_CCTV-16-4K.m3u8
+#EXTINF:-1,北京卫视 4K
+http://113.125.208.46:2380/js-live-screenshot.gitv.tv/gitv_live/G_BEIJING-4K/G_BEIJING-4K.m3u8
