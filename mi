@@ -1,0 +1,11 @@
+#EXTM3U
+
+#EXTINF:-1,至臻视界
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=
+#EXTHTTP:{"Host":"cache.ott.fifalive.itv.cmvideo.cn"}
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=m
+
+#EXTINF:-1,咪视界4K
+#EXTHTTP:{"Host":"cache.ott.fifalive.itv.cmvideo.cn"}
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=m
