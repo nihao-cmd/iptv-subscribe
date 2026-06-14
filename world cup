@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="ProSiebenSat.1 UHD" group-title="UHD",ProSiebenSat.1 UHD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=1918c1b96afa3f747e6c376fda8e140e:e09fc7553946e5ad68e0162715e96f71
+https://svc45.main.sl.t-online.de/bpk-tv/KID00914_ProSiebenSat1UHD_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-name="RTL UHD" group-title="UHD",RTL UHD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=17286ed7f8585665d9ac6d8a007db83c:c1583491f2c49fc36ed90ea42fb8ccc0
+https://svc45.main.sl.t-online.de/bpk-tv/KID00860_RTLUHD_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-name="Travelxp 4K UHD" group-title="UHD",Travelxp 4K UHD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=1f5e28ed5473effa0abf80c7a5dd8d62:5d1d93cb5c7747933dabc3cff1141cbe
+https://svc45.main.sl.t-online.de/bpk-tv/KID00857_Travelxp4K_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-name="FUSSBALL.TV 1 UHD" group-title="Sports UHD",FUSSBALL.TV 1 UHD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-name="FUSSBALL.TV 2 UHD" group-title="Sports UHD",FUSSBALL.TV 2 UHD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-name="FUSSBALL.TV 3 UHD" group-title="Sports UHD",FUSSBALL.TV 3 UHD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=1e7d99c0433399f6149e33860a755824:58defdfcb6ec5473905cbae6a7e6752c
+https://svc45.main.sl.t-online.de/bpk-tv/KID01065_FUSSBALLTV3_uhd/DASH/index.mpd
