@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="FOX4K" tvg-name="FOX HDR10 4K" group-title="Sports",FOX HDR10 4K
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/t2l7sxqngp/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
