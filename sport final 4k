@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="4K Sports",FOX Sports 4K 1
+http://89.187.179.148:826/live/TammyMccready/eGj6lFxVyG/119907.m3u8
+
+#EXTINF:-1 group-title="4K Sports",FOX Sports 4K 2
+http://89.187.179.148:826/live/TammyMccready/eGj6lFxVyG/119908.m3u8
+
+#EXTINF:-1 group-title="4K Sports",TSN 4K
+http://89.187.179.148:826/live/TammyMccready/eGj6lFxVyG/119333.m3u8
