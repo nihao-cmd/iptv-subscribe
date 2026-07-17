@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="F1 TV" group-title="F1",F1 TV
+http://89.187.179.148:826/live/TammyMccready/eGj6lFxVyG/110796.m3u8
+
+#EXTINF:-1 tvg-name="Apple TV F1" group-title="F1",Apple TV F1
+http://89.187.179.148:826/live/TammyMccready/eGj6lFxVyG/120159.m3u8
