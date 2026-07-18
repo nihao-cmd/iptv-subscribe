@@ -8,3 +8,22 @@ http://89.187.179.148:826/live/TammyMccready/eGj6lFxVyG/119908.m3u8
 
 #EXTINF:-1 group-title="4K Sports",TSN 4K
 http://89.187.179.148:826/live/TammyMccready/eGj6lFxVyG/119333.m3u8
+#EXTM3U
+
+#EXTINF:-1,FOX 4K
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/2095902.m3u8
+
+#EXTINF:-1,FS1 4K
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/2095899.m3u8
+
+#EXTINF:-1,BBC 4K
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120330
+
+#EXTINF:-1,NOW Sports 4K
+http://89.187.179.148:826/TammyMccready/eGj6lFxVyG/120336
+
+#EXTINF:-1,FOX Sports 4K 1
+http://89.187.179.148:826/live/TammyMccready/eGj6lFxVyG/119907.m3u8
+
+#EXTINF:-1,FOX Sports 4K 2
+http://89.187.179.148:826/live/TammyMccready/eGj6lFxVyG/119908.m3u8
