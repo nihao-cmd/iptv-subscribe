@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="NHK 4K/8K",NHK BS Premium 4K
+https://tsb-mega.i9.ee/stream/nhkbsp4k_hevc_mmt
+
+#EXTINF:-1 group-title="NHK 4K/8K",NHK BS 8K
+https://tsb-mega.i9.ee/stream/nhkbs8k_hevc_mmt
